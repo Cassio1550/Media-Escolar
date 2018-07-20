@@ -1,0 +1,11 @@
+C:\Users\cassio.henrique\Documents\curso C#\Media_Escolar\Media_Escolar\bin\Debug\netcoreapp2.0\Media_Escolar.deps.json
+C:\Users\cassio.henrique\Documents\curso C#\Media_Escolar\Media_Escolar\bin\Debug\netcoreapp2.0\Media_Escolar.runtimeconfig.json
+C:\Users\cassio.henrique\Documents\curso C#\Media_Escolar\Media_Escolar\bin\Debug\netcoreapp2.0\Media_Escolar.runtimeconfig.dev.json
+C:\Users\cassio.henrique\Documents\curso C#\Media_Escolar\Media_Escolar\bin\Debug\netcoreapp2.0\Media_Escolar.dll
+C:\Users\cassio.henrique\Documents\curso C#\Media_Escolar\Media_Escolar\bin\Debug\netcoreapp2.0\Media_Escolar.pdb
+C:\Users\cassio.henrique\Documents\curso C#\Media_Escolar\Media_Escolar\obj\Debug\netcoreapp2.0\Media_Escolar.csprojResolveAssemblyReference.cache
+C:\Users\cassio.henrique\Documents\curso C#\Media_Escolar\Media_Escolar\obj\Debug\netcoreapp2.0\Media_Escolar.csproj.CoreCompileInputs.cache
+C:\Users\cassio.henrique\Documents\curso C#\Media_Escolar\Media_Escolar\obj\Debug\netcoreapp2.0\Media_Escolar.AssemblyInfoInputs.cache
+C:\Users\cassio.henrique\Documents\curso C#\Media_Escolar\Media_Escolar\obj\Debug\netcoreapp2.0\Media_Escolar.AssemblyInfo.cs
+C:\Users\cassio.henrique\Documents\curso C#\Media_Escolar\Media_Escolar\obj\Debug\netcoreapp2.0\Media_Escolar.dll
+C:\Users\cassio.henrique\Documents\curso C#\Media_Escolar\Media_Escolar\obj\Debug\netcoreapp2.0\Media_Escolar.pdb
